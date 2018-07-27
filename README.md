@@ -40,4 +40,4 @@ module.exports = {
 
 ## License
 
-MIT (http://www.opensource.org/licenses/mit-license.php)
+MIT (https://www.opensource.org/licenses/mit-license.php)
